@@ -74,8 +74,8 @@ RapidLab Care aims to reduce:
   
 ## Team
 
-* Shishir
-* Shristi
+* Shristi Singh
+* Shishir Madhav
 
 ## Project Status
 
